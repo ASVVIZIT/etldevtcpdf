@@ -1,6 +1,6 @@
 {
   "name": "asvvizit/etldevtcpdf",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "homepage": "http://www.etldevtcpdf.org/",
   "type": "library",
   "description": "etldevtcpdf is a PHP class for generating PDF documents and barcodes.",

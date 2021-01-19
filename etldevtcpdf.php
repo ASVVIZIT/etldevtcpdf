@@ -1,7 +1,7 @@
 <?php
 //============================================================+
 // File name   : etldevtcpdf.php
-// Version     : 1.0.2
+// Version     : 1.0.4
 // Begin       : 2002-08-03
 // Last Update : 2019-09-20
 // Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
